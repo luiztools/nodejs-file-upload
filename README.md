@@ -13,6 +13,8 @@ Me siga nas redes sociais: https://about.me/luiztools
 
 Example with Formidable package.
 
+Para o tutorial completo, acesse: https://www.luiztools.com.br/post/como-fazer-upload-de-arquivos-em-node-js/
+
 ## multer-example
 
 Example with Multer package.
@@ -22,5 +24,7 @@ Para o tutorial completo, acesse: https://www.luiztools.com.br/post/como-fazer-u
 ## aws-s3-example
 
 Example with Formidable + AWS S3.
+
+Before run this project, create a .env file in the root folder and put the variables listed in the tutorial below.
 
 Para o tutorial completo, acesse: https://www.luiztools.com.br/post/como-fazer-upload-de-arquivos-no-aws-s3-em-node-js/
