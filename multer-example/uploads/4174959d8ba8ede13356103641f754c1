@@ -1,0 +1,12 @@
+npx sequelize-cli db:migrate --url postgres://postgres@localhost:5432/respondeai
+
+
+
+npx sequelize-cli migration:generate --name migration-usuarios 
+
+export DATABASE_URL=mysql://root:luiztools@localhost/crud
+
+
+
+
+13:39
